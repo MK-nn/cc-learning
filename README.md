@@ -35,3 +35,6 @@ $ docker container ls -a
 // 変更をコミットする
 $ docker commit <CONTAINER ID> compilerbook
 ```
+
+# 参考資料
+- [低レイヤを知りたい人のためのCコンパイラ作成入門](低レイヤを知りたい人のためのCコンパイラ作成入門)
