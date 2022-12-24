@@ -1,10 +1,10 @@
 # cc-learning
 
 # 開発環境
-- 想定開発環境 x86-64
-- macの場合は docker を使用する必要がある。
+- x86-64
 
 ## docker の set up
+mac の場合
 1. [Docker Desktop for Mac](https://docs.docker.com/desktop/install/mac-install/)をインストールする
 2. イメージの作成
 ```
